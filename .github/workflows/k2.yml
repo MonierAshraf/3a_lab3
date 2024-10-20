@@ -5,6 +5,8 @@ jobs:
         runs-on: ubuntu-latest 
         steps:
         - name: st1
-          run: echo "hi" 
+          run: echo "hi"
+        - name: st2
+          run: echo "hello" 
     
-        
+
