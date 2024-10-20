@@ -1,2 +1,5 @@
 name: task3
-
+on: push
+jobs:
+    j1:
+        
